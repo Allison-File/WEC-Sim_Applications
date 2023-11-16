@@ -1,4 +1,4 @@
-# RM3 PTO Extension - float
+# RM3 PTO Extension for Float Body
 
 This folder highlights the default model setup in which the PTO extension feature can be utilized to define the PTO mechanism as the spar for the RM3 model. 
 
